@@ -37,7 +37,8 @@ Users should be able to:
 
 ## My process
 
--This was a code-along with Kevin Powell's tutorial. I am using this as a jumping off point to code my other front end mentor projects using this same system without a tutorial. I am also keeping in mind writing up detailed README files.
+-getting used to working with css components.
+I am also keeping in mind writing up detailed README files.
 
 ### Built with
 
@@ -51,8 +52,7 @@ Users should be able to:
 - Accessible HTML
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+.
 
 To see how you can add code snippets, see below:
 
